@@ -23,3 +23,6 @@ $ pip install tensorflow
 ```
 $ pip install imutils
 ```
+```
+$ pip install matplotlib
+```
