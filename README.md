@@ -20,3 +20,6 @@ $ pip install keras
 ```
 $ pip install tensorflow
 ```
+```
+$ pip install imutils
+```
