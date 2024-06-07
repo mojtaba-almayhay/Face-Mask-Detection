@@ -12,4 +12,6 @@ $ pip install pillow
 ```
 $ pip install opencv-python
 ```
-
+```
+$ pip install keras
+```
