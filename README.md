@@ -1,4 +1,4 @@
-<h1 align="center">Face Mask Detection</h1>
+## Face Mask Detection
 Face Mask Detection system based on computer vision and deep learning using OpenCV and Tensorflow/Keras
 ####          
 ![](https://github.com/mojtaba-almayhay/Face-Mask-Detection/blob/main/config_project/screen1.PNG)
