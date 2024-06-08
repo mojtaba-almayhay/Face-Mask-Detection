@@ -1,11 +1,12 @@
 ## Face Mask Detection
 Face Mask Detection system based on computer vision and deep learning using OpenCV and Tensorflow/Keras
 ####          
-![](https://github.com/mojtaba-almayhay/Face-Mask-Detection/blob/main/config_project/screen1.PNG)
+![](https://github.com/mojtaba-almayhay/Face-Mask-Detection/blob/main/screen/screen1.PNG)
 ####
 ####          
-![](https://github.com/mojtaba-almayhay/Face-Mask-Detection/blob/main/App/config/images/background.png)
+![](https://github.com/mojtaba-almayhay/Face-Mask-Detection/blob/main/screen/screen4.PNG)
 ####
+
 ## 🚀&nbsp; Installation the required packages
 ```
 $ pip install customtkinter
